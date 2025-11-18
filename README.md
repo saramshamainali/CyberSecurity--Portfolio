@@ -1,1 +1,2 @@
-# CyberSecurity--Portfolio
+My name is Saramsha Mainali, and I am a cybersecurity student graduating in May 2026. After completing the Coursera Cybersecurity Professional Certification, I developed a strong foundation in network defense, Linux security, vulnerability assessment, and incident response.
+What drives me the most is the challenge of ethical hacking and problem-solving—I enjoy understanding how systems work, finding weaknesses, and learning how to secure them. I’m committed to growing as a cybersecurity professional and applying my skills to protect organizations from real-world threats.
